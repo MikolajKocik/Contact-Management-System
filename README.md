@@ -31,7 +31,7 @@ This project is a simple Contact Management System written in Python. It allows 
   - `typing` for type hints (`List`, `Optional`).
 
 
-## Documentation
+## 📚 Documentation
 
 [Python docs - JSON](https://docs.python.org/3/library/json.html)
 
